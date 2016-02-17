@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/emeraldaly/021616_express_node_code/issues"
   },
-  "homepage": "https://github.com/emeraldaly/021616_express_node_code#readme"
+  "homepage": "https://github.com/emeraldaly/021616_express_node_code#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.10.2"
+  }
 }
